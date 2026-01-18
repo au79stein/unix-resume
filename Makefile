@@ -23,4 +23,6 @@ clean:
 install:
 	cp $(FULL_MAN) /usr/local/share/man/man1/$(FULL_NAME)
 	cp $(SHORT_MAN) /usr/local/share/man/man7/$(SHORT_NAME)
+  # include for linux and unix systems
+  # mandb
 
