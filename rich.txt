@@ -1,0 +1,26 @@
+total 132
+drwx------ 14 richg richg  4096 Aug  1 23:09 .
+drwxr-xr-x  3 root  root   4096 Jul 25 18:33 ..
+-rw-------  1 richg richg   969 Aug  1 22:36 .bash_history
+-rw-r--r--  1 richg richg   220 Dec  4  2025 .bash_logout
+-rw-r--r--  1 richg richg  3523 Dec  4  2025 .bashrc
+drwx------  7 richg richg  4096 Jul 25 18:47 .cache
+drwx------ 10 richg richg  4096 Jul 28 00:07 .config
+drwxrwxr-x  2 richg richg  4096 Jul 25 18:33 Desktop
+drwxr-xr-x  2 richg richg  4096 Jul 25 18:33 Documents
+drwxr-xr-x  2 richg richg  4096 Jul 25 18:33 Downloads
+drwxrwxr-x  4 richg richg  4096 Jul 25 18:33 .local
+drwxr-xr-x  2 richg richg  4096 Jul 25 18:33 Music
+drwxr-xr-x  2 richg richg  4096 Jul 25 18:33 Pictures
+-rw-r--r--  1 richg richg   807 Dec  4  2025 .profile
+drwxr-xr-x  2 richg richg  4096 Jul 25 18:33 Public
+-rw-r--r--  1 richg richg     0 Aug  1 23:09 richgoldstein@[2600:1700:8438:1140:c40:80e:267a:b201]
+-rw-r--r--  1 richg richg     0 Aug  1 23:08 rich.txt
+drwx------  2 richg richg  4096 Jul 29 06:09 .ssh
+-rw-r--r--  1 richg richg     0 Jul 25 18:33 .sudo_as_admin_successful
+drwxr-xr-x  2 richg richg  4096 Jul 25 18:33 Templates
+drwxr-xr-x  2 richg richg  4096 Jul 25 18:33 Videos
+-rw-------  1 richg richg   703 Jul 28 00:09 .viminfo
+-rw-------  1 richg richg    56 Jul 25 18:43 .Xauthority
+-rw-------  1 richg richg 43137 Aug  1 18:43 .xsession-errors
+-rw-------  1 richg richg  3309 Jul 25 18:39 .xsession-errors.old
